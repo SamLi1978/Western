@@ -1,1 +1,1 @@
-# Welcome to Western computer science outlines for my daugher
+# Welcome to syllabus outlines in computer science specialization 
